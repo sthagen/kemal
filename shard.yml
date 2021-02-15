@@ -7,7 +7,7 @@ authors:
 dependencies:
   radix:
     github: luislavena/radix
-    version: ~> 0.3.8
+    version: ~> 0.4.0
   kilt:
     github: jeromegn/kilt
     version: ~> 0.4.0
@@ -18,7 +18,7 @@ dependencies:
 development_dependencies:
   ameba:
     github: crystal-ameba/ameba
-    version: ~> 0.12.0
+    version: ~> 0.13.4
 
 crystal: 0.35.0
 
